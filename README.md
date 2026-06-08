@@ -10,9 +10,13 @@ This project provides a complete and practical guide on how to implement a class
 
 ### Results Achieved
 ✅ **94% accuracy** on the training set
+
 ✅ **91% accuracy** on the test set
+
 ✅ **0.23 final defeat** (excellent convergence)
+
 ✅ **No significant overfitting** (3% difference)
+
 ---
 ## ✨ Features
 ### 5 Clear and Well-Documented Steps
